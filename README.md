@@ -31,3 +31,16 @@ This is a Christmas AR Project by using AR Foundation.
 
 ## XCode (Build Application)
 * XCode Version: v12.2
+
+# How to use?
+1. 先將專案clone至自己的local端
+```
+git clone https://github.com/roger28200901/AR_Project.git
+```
+2. 並將專案執行起來後Build & Run
+3. 公開權限給手機App並啟用相機
+4. 開始你的體驗
+
+
+
+
