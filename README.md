@@ -8,8 +8,8 @@ This is a Christmas AR Project by using AR Foundation.
 
 ![alt_text][tree]
 
-[doggo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Dog"
-[tree]:https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Tree"
+[doggo]: https://github.com/roger28200901/AR_Project/blob/master/Assets/Images/ChristmasDod_scaled.jpg "Dog"
+[tree]:https://github.com/roger28200901/AR_Project/blob/master/Assets/Images/ChristmasTree_scaled.jpg "Tree"
 
 # Requirement 
 ## IOS
