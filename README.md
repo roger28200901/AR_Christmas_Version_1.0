@@ -27,7 +27,7 @@ This is a Christmas AR Project by using AR Foundation.
 * Vuforia Engine: v8.1.12
 
 ## Unity
-# Unity Version: 2020.3.20f1 
+* Unity Version: 2020.3.20f1 
 
 ## XCode (Build Application)
-# XCode Version: v12.2
+* XCode Version: v12.2
