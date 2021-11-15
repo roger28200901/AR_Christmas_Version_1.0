@@ -12,12 +12,18 @@ This is a Christmas AR Project by using AR Foundation.
 [tree]:https://github.com/roger28200901/AR_Project/blob/master/Assets/Images/ChristmasTree_scaled.jpg "Tree"
 
 # Requirement 
-## IOS
-* AR Foundation v4.1.7
-* ARCore XR Plugin v4.1.7
-* ARKit Face Tracking v4.1.7
-* ARKit XR Plugin v4.1.7
-* IOS Version >= 11.0
+## IOS (By using AR Founation & ARKit & ARCore)
+* AR Foundation: v4.1.7
+* ARCore XR Plugin: v4.1.7
+* ARKit Face Tracking: v4.1.7
+* ARKit XR Plugin: v4.1.7
+* IOS Version: >= v11.0
 
 ## Android
-* Vuforia Engine 8.1.12
+* Vuforia Engine: v8.1.12
+
+## Unity
+# Unity Version: 2020.3.20f1 
+
+## XCode (Build Application)
+# XCode Version: v12.2
