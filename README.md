@@ -2,10 +2,14 @@
 This is a Christmas AR Project by using AR Foundation.
 使用 Unity & Vuforia 製作 AR 聖誕卡片
 # 製作目標
-在本專案中，將會使用 2 張實體卡片作為 AR 掃描目標。使用手機掃描實體卡片後，將會出 現聖誕柴犬、聖誕樹。
+在本專案中，將會使用 2 張實體卡片作為 AR 掃描目標。使用手機掃描實體卡片後，將會出現聖誕柴犬、聖誕樹。
 
+我就說了！
+> 不可以色色！
 ![alt text][doggo]
 
+聖誕老人在哪裡？
+> 哈哈！在這裡拉！
 ![alt_text][tree]
 
 [doggo]: https://github.com/roger28200901/AR_Project/blob/master/Assets/Images/ChristmasDod_scaled.jpg "Dog"
